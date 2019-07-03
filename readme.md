@@ -6,7 +6,7 @@ Some of the files may use references to other products, which may require a lice
 # Support
 No support, no warranty and no guaranty of any kind are given.
 # Content
-| Folder  | Language | Notes                                  |
-|:------- |:---------|:---------------------------------------|
-| acrobat | German   | Using the Adobe Acrobat Library        |
-| lotus   | German   | Using the Lotus Domino Objects Library |
+| Folder  | Languages | Notes                                  |
+|:------- |:----------|:---------------------------------------|
+| acrobat | German    | Using the Adobe Acrobat Library        |
+| lotus   | German    | Using the Lotus Domino Objects Library |
