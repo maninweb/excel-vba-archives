@@ -1,4 +1,4 @@
-| File                | Language | Notes                             |
-|:------------------- |:---------|:----------------------------------|
-| Lotus-Tutorial.xlsb | German   | Tutorial with some explanations   |
-| Lotus-Sample.xlsb   | German   | Sample implementation             |
+| File                    | Language | Notes                             |
+|:----------------------- |:---------|:----------------------------------|
+| DEU-Lotus-Tutorial.xlsb | German   | Tutorial with some explanations   |
+| DEU-Lotus-Sample.xlsb   | German   | Sample implementation             |
