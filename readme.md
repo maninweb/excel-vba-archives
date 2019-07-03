@@ -5,3 +5,7 @@ Therefore, I uploaded some of them here. The Excel files are unprotected and you
 Some of the files may use references to other products, which may require a license. It is assumed, that you legally own a license for these products. Due to their age and may be use of Windows API functions, please always consider to not have important files open when testing the files. You are using these files at your own risk.
 # Support
 No support, no warranty and no guaranty of any kind are given.
+# Content
+| Folder  | Language | Notes                               |
+|:------- |:---------|:------------------------------------|
+| acrobat | German   | Using the Adobe Acrobat VBA Library |
